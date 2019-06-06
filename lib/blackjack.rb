@@ -48,6 +48,8 @@ end
 #####################################################
 
 def runner
-  Welcome
+  welcome
+  card_total = 0 
+  
 end
     
